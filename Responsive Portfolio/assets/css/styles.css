@@ -538,19 +538,19 @@ img {
 }
 
 .skills__css {
-    width: 60%;
+    width: 75%;
 }
 
 .skills__js {
     width: 50%;
 }
 
-.skills__react {
-    width: 40%;
+.skills__cplusplus {
+    width: 80%;
 }
 
-.skills__php {
-    width: 60%;
+.skills__csharp {
+    width: 50%;
 }
 
 .skills__windows {
@@ -562,11 +562,39 @@ img {
 }
 
 .skills__python {
-    width: 55%;
+    width: 70%;
 }
 
 .skills__dsa {
-    width: 20%;
+    width: 80%;
+}
+
+.skills__agile {
+    width: 50%;
+}
+
+.skills__sdlc {
+    width: 50%;
+}
+
+.skills__scrum {
+    width: 50%;
+}
+
+.skills__oop {
+    width: 80%;
+}
+
+.skills__azure {
+    width: 50%;
+}
+
+.skills__pipeline {
+    width: 40%;
+}
+
+.skills__dbms {
+    width: 80%;
 }
 
 .skills__selenium {
@@ -574,7 +602,7 @@ img {
 }
 
 .skills__sql {
-    width: 75%;
+    width: 80%;
 }
 
 .skills__close .skills__list {
